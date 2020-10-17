@@ -2,12 +2,12 @@ class Lobby{
     name;
     tags;
     datetime;
-    users;
+    uuid;
 
-    constructor(name, tags, datetime, users) {
+    constructor(name, tags, datetime, uuid) {
         this.name = name;
         this.tags = tags;
         this.datetime = datetime;
-        this.users = users;
+        this.uuid = uuid;
     }
 }
