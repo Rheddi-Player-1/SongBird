@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 function DashboardScreen() {
     return (
-        <h1>USER DASHBOARD!!!</h1>
+        <h1>MAIN PAGE</h1>
     );
 }
 
